@@ -1,0 +1,33 @@
+ul.navbar-nav a:hover { 
+    color: #F0A500 !important;
+}
+.navbar-brand {
+    margin-left: 5rem !important;
+}
+.navbar-brand:hover {
+    color: whitesmoke !important;
+}
+.jumbotron {
+    background-color: #E9ECEF;
+    text-align: center;
+}
+a {
+    text-decoration: none !important;
+}
+.hover-yellow:hover {
+    color: #F0A500 !important;
+}
+.in-cards .card {
+    text-align: center;
+    align-items: center;
+    margin-left: 5px;
+    border-style: none !important;
+    margin-top: 10px !important;
+}
+.card-hover:hover {
+    border: 3px outset;
+    border-color: #F0A500;
+}
+/* li {
+    list-style: none !important;
+} */
